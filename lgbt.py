@@ -1,1 +1,1 @@
-print("i am not lgbt!")
+print("Ian is LGBT!")
